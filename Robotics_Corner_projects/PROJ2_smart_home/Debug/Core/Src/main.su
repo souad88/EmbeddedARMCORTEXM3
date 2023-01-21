@@ -1,0 +1,12 @@
+../Core/Src/main.c:33:5:main	32	static
+../Core/Src/main.c:128:6:LEDS_INIT	4	static
+../Core/Src/main.c:138:6:LED_PB11_ON	4	static
+../Core/Src/main.c:142:6:LED_PB11_OFF	4	static
+../Core/Src/main.c:148:6:LEDS_ON	4	static
+../Core/Src/main.c:154:6:LEDS_OFF	4	static
+../Core/Src/main.c:165:6:send_string_from_usart	24	static
+../Core/Src/main.c:177:6:send_char_DR	16	static
+../Core/Src/main.c:184:6:SystemClock_Config	72	static
+../Core/Src/main.c:221:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:255:13:MX_GPIO_Init	16	static
+../Core/Src/main.c:272:6:Error_Handler	4	static,ignoring_inline_asm
